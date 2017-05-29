@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Tip Explorer</string>
+
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="info_message">INFO</string>
+  <string name="no_net_connection">No Internet Connection.</string>
+  <string name="tip_user_info">User information of this tip</string>
+  <string name="tip_comments">Tip Comments</string>
+  <string name="get_tips">GET TIPS</string>
+  <string name="reload_again">reload again</string>
+  <string name="tip_list">TIP LIST</string>
+  <string name="tip_detail">TIP DETAIL</string>
+</resources>

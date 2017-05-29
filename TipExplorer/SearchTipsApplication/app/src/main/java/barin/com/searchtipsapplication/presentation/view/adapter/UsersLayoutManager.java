@@ -1,0 +1,15 @@
+/**
+ * Copyright (C) 2014 android10.org. All rights reserved.
+ * @author Fernando Cejas (the android10 coder)
+ */
+package barin.com.searchtipsapplication.presentation.view.adapter;
+
+import android.content.Context;
+import android.support.v7.widget.LinearLayoutManager;
+
+public class UsersLayoutManager extends LinearLayoutManager {
+  public UsersLayoutManager(Context context) {
+    super(context);
+  }
+}
+

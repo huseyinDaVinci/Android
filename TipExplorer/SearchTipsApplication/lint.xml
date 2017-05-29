@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+  <!-- Disable the given check in this project -->
+  <issue id="IconMissingDensityFolder" severity="ignore"/>
+
+
+  <!-- Change the severity of hardcoded strings to "error" -->
+  <issue id="MangledCRLF" severity="ignore"/>
+
+  <issue id="InvalidPackage" severity="ignore"/>
+  <issue id="GoogleAppIndexingWarning" severity="ignore"/>
+  <issue id="GradleDependency" severity="ignore"/>
+  <issue id="UnusedResources" severity="ignore"/>
+  <issue id="IconColors" severity="ignore"/>
+  <issue id="IconLocation" severity="ignore"/>
+
+
+  <!-- These are criticial actually and should not be ignored for now only. -->
+  <issue id="TrulyRandom" severity="ignore"/>
+  <issue id="AllowAllHostnameVerifier" severity="ignore"/>
+  <issue id="TrustAllX509TrustManager" severity="ignore"/>
+  <issue id="PackagedPrivateKey" severity="ignore"/>
+  //very critical...
+
+
+</lint>

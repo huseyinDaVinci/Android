@@ -1,0 +1,7 @@
+Simply gave a static longitude, latitude and get the tips from that area then show the user tips and details.
+
+-list the tips in recycler view and when clicked the user information of this tip will be showed according to two pane status.
+
+-I used data-domain-presentation architecture for this application by implementing the sources of Fernando Cejas's application.
+
+
