@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#3F51B5</color>
+  <color name="colorPrimaryDark">#303F9F</color>
+  <color name="colorAccent">#FF4081</color>
+
+  <color name="transparent">#d9ffffff</color>
+  <color name="ripple_button_dialog">#8b0000</color>
+  <color name="white">#ffffff</color>
+  <color name="black">#000000</color>
+  <color name="grey_700">#616161</color>
+  <color name="grey_800">#424242</color>
+  <color name="inactive">#9E9E9E</color>
+  <color name="light_grey">#EEEEEE</color>
+  <color name="colorPrimaryLight">#FFA726</color>
+  <color name="transparent_full">#00FFFFFF</color>
+  <color name="red">#D32F2F</color>
+  <color name="primary_light_two">#ffad42</color>
+  <color name="elevation_color">#F5F5F5</color>
+  <color name="green">#388E3C</color>
+  <color name="grey_inactive">#BDBDBD</color>
+
+
+</resources>

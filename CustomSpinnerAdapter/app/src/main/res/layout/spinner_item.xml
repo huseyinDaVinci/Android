@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tv_test"
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:layout_alignParentLeft="true"
+
+
+    android:layout_margin="5dp"
+    android:gravity="center"
+
+    android:orientation="vertical"
+    android:paddingStart="7dp"
+    android:text="TEST"
+    android:textColor="@color/black"
+    android:textSize="18sp"
+    tools:ignore="HardcodedText,RtlHardcoded,RtlSymmetry"
+    >
+
+</TextView>
+
+
